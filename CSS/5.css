@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "calibri ligth";
+}
+
+.contenedor{
+    background: tomato;
+    width: 100%;
+    margin: auto;
+}
+
+header{
+    background: blue;
+    height: 100px;
+}
+
+main{
+    background: yellow;
+}
+footer{
+    background: teal;
+}
+
+header{
+    height: 400px;
+    background-image: url("../IMAGENES/BANER5.png");
+    background-position: center;
+    background-size: cover;
+}
+
+main{
+    background: white;
+    padding: 20px 30px;  
+}
+
+main .foto{
+    width: 150px;
+    height: 150px;
+    background-color: teal;
+    border-radius: 50%;
+    margin: -90px 0 20px 0;
+    border: 6px solid #ffffff;
+}
+
+main .foto img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+
+

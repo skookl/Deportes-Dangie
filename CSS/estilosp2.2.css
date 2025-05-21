@@ -1,0 +1,22 @@
+body{
+    font-family: "Roboto";
+}
+
+div.uno{
+    width: 55%;
+    height: 50px;
+    border: 6px double #1B83FF;
+    background: white;
+    text-align: center;
+    margin-left: 25%; 
+
+}
+
+
+footer{
+    background: #1B83FF;
+    text-align: center;
+    padding: 25px;
+    color: #ffffff;
+    width: auto;
+}
